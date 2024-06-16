@@ -1,7 +1,3 @@
-Tôi hiểu. Dưới đây là bài giảng được đơn giản hóa và dịch sang tiếng Việt để phù hợp với học sinh lớp 8 với nền tảng tiếng Anh không tốt.
-
----
-
 ## Bài giảng về Biến, Kiểu dữ liệu và Hàm trong C++
 
 ### Giới thiệu
