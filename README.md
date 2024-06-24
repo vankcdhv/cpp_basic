@@ -79,7 +79,7 @@ C++ hỗ trợ nhiều kiểu dữ liệu khác nhau. Một số kiểu dữ li�
     int a = 10;
     int b = 20;
     tong_a_b = cong(a, b);
-    count << tong_a_b;
+    cout << tong_a_b;
     hienThiThongDien();
   }
   ```
