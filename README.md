@@ -68,21 +68,21 @@ C++ hỗ trợ nhiều kiểu dữ liệu khác nhau. Một số kiểu dữ li�
   ```
 - **Ví dụ**:
   ```cpp
-int cong(int a, int b) {
-    return a + b;
-}
-
-void hienThiThongDiep() {
-    std::cout << "In ra thong diep bang ham";
-}
-
-int main () {
-  int a = 10;
-  int b = 20;
-  int tong_a_b = cong(a, b);
-  std::cout << tong_a_b << '\n';
-  hienThiThongDiep();
-}
+  int cong(int a, int b) {
+      return a + b;
+  }
+  
+  void hienThiThongDiep() {
+      std::cout << "In ra thong diep bang ham";
+  }
+  
+  int main () {
+    int a = 10;
+    int b = 20;
+    int tong_a_b = cong(a, b);
+    std::cout << tong_a_b << '\n';
+    hienThiThongDiep();
+  }
   ```
 
 #### 3.1 Gọi hàm
